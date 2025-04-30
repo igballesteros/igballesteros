@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨🏻‍💻 Software Engineer sharing about my learnings in development<br>👨🏻‍🎓 Studied Computer Engineering at the University of Guelph<br>💭 Currently learning about Cloud Computing and AI<br>⚡️ Fun fact: I wanted to be a pilot until I was 18<br><br>
+👨🏻‍💻 Software Engineer sharing about my learnings in development<br>👨🏻‍🎓 Studied Computer Engineering at the University of Guelph<br>💭 Currently learning about Cloud Computing and AI<br>⚡️ Fun fact: I like to eat pinneaple with salt<br><br>
 
 
 
